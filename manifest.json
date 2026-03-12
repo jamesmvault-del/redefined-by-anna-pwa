@@ -1,0 +1,16 @@
+{
+  "name": "Redefined By Anna",
+  "short_name": "Redefined",
+  "description": "Premium Beauty Therapy Clinic",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f2",
+  "theme_color": "#f7f5f2",
+  "icons": [
+    {
+      "src": "assets/images/source/site-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}

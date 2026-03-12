@@ -1,0 +1,126 @@
+[
+  {
+    "id": "hero-spa",
+    "output": "assets/images/source/hero-spa.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic wide editorial spa backdrop for a premium beauty therapy homepage. Warm blush-beige plaster wall, subtle tonal texture, elegant stone or plaster ledge across the lower portion, very soft natural daylight, calm empty centre for headline copy, luxurious but believable premium spa aesthetic, no objects in the foreground, no people, no text, no logo, no furniture, no clutter."
+  },
+  {
+    "id": "hero-accent-left",
+    "output": "assets/images/source/hero-accent-left.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "background": "transparent",
+    "prompt": "Photorealistic isolated left-side spa still life for a premium beauty therapy hero banner, rendered on a transparent background. Include three softly glowing ivory candles at varied heights, folded taupe linen draped to the far left, a small ribbed ceramic vessel, a shallow wooden bowl with natural seeds or botanicals, and warm dried leaves sweeping along the base toward the centre. Editorial luxury styling, realistic proportions, grounded composition with clean cutout edges, no people, no text, no logo, no background, no extra objects."
+  },
+  {
+    "id": "hero-accent-right",
+    "output": "assets/images/source/hero-accent-right.png",
+    "size": "1536x1024",
+    "quality": "high",
+    "background": "transparent",
+    "prompt": "Photorealistic isolated right-side spa still life for a premium beauty therapy hero banner, rendered on a transparent background. Include a textured stone bowl containing pale cream mask, a wooden applicator resting across the rim, softly folded ivory towels behind and beneath the bowl, smooth stones, one softly glowing candle near the front edge, and delicate dried leaves rising at the far right. Elegant editorial spa styling, realistic shadows within the arrangement, grounded composition with clean cutout edges, no people, no text, no logo, no background, no extra objects."
+  },
+  {
+    "id": "section-accent-left",
+    "output": "assets/images/source/section-accent-left.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "background": "transparent",
+    "prompt": "Photorealistic isolated editorial spa accent for the lower left of a premium beauty therapy website, rendered on a transparent background. Include delicate dried grasses or pampas in a soft neutral vessel, smooth stones, and two softly glowing candles arranged low and wide. Warm beige and blush palette, elegant realistic textures, clean cutout edges, no people, no text, no logo, no background."
+  },
+  {
+    "id": "section-accent-right",
+    "output": "assets/images/source/section-accent-right.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "background": "transparent",
+    "prompt": "Photorealistic isolated editorial spa accent for the lower right of a premium beauty therapy website, rendered on a transparent background. Include one softly glowing candle, smooth spa stones, and a few subtle dried botanical stems arranged as a compact grounded composition. Warm beige and blush palette, realistic textures, elegant lighting, clean cutout edges, no people, no text, no logo, no background."
+  },
+  {
+    "id": "laser-hair-removal",
+    "output": "assets/images/source/laser-hair-removal.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic editorial treatment image of laser hair removal in a premium single-practitioner beauty clinic. Close view of a gloved therapist using a modern handheld laser device on a client's leg, elegant candle-lit neutral environment, soft peach and taupe palette, clean medical realism, refined composition, no text, no logo."
+  },
+  {
+    "id": "advanced-electrolysis",
+    "output": "assets/images/source/advanced-electrolysis.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic editorial beauty treatment image showing advanced electrolysis in a warm luxury clinic. Detailed close-up of a gloved practitioner performing precise facial electrolysis treatment, serene beige surroundings, flattering natural light, clean professional equipment, realistic skin texture, premium and calm, no text, no logo."
+  },
+  {
+    "id": "laser-tattoo-removal",
+    "output": "assets/images/source/laser-tattoo-removal.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic editorial treatment image of laser tattoo removal in a premium beauty clinic. A gloved therapist using a professional laser handpiece on a client's forearm with a small visible tattoo, warm neutral interior, soft natural lighting, elegant clinical styling, ultra realistic, no text, no logo."
+  },
+  {
+    "id": "anna-portrait",
+    "output": "assets/images/source/anna-portrait.jpg",
+    "size": "1024x1536",
+    "quality": "high",
+    "prompt": "Photorealistic editorial portrait for a premium beauty therapy website. Friendly female therapist in her 30s to 40s with polished natural makeup and soft blonde hair, relaxed confident expression, seated in a warm blush and beige studio with diffused daylight and elegant drapery, luxury wellness aesthetic, realistic skin texture, no text, no logo, no jewellery focus, no exaggerated retouching."
+  },
+  {
+    "id": "location-map",
+    "output": "assets/images/source/location-map.jpg",
+    "size": "1024x1024",
+    "quality": "high",
+    "prompt": "Photorealistic premium minimalist map of a clinic location. Minimal elegant vector art style cartography. Warm blush and beige color palette to match a luxury spa website. Subtle map pin in the center. Clean, abstract, photorealistic vector illustration. Editorial aesthetic, no text, no logo, no labels, realistic proportions."
+  },
+  {
+    "id": "site-logo",
+    "output": "assets/images/source/site-logo.png",
+    "size": "1024x1024",
+    "quality": "high",
+    "background": "transparent",
+    "prompt": "Premium, eye-catching beauty clinic logo icon featuring an elegant stylized lily flower. The main linework and body of the lily are solid dark charcoal-brown to match the site typography, creating high contrast. Accented with vibrant but sophisticated pops of warm blush taupe and soft rose pink. High-end editorial aesthetic, conveying pure skin, transformation, and refined beauty. Bold yet elegant, perfect for a high-end beauty app icon. Clean vector style with photorealistic sharp details, transparent background. No text, no background."
+  },
+  {
+    "id": "treatments-hero",
+    "output": "assets/images/source/treatments-hero.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic wide editorial spa backdrop for a premium beauty therapy treatments page. Warm blush-beige plaster wall, elegant stone texture, beautiful delicate dried flowers or pampas grass, very soft natural daylight, calm empty centre for headline copy, luxurious but believable premium spa aesthetic, no people, no text, no logo."
+  },
+  {
+    "id": "facials",
+    "output": "assets/images/source/facials.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic editorial treatment image of a luxury facial in a premium beauty clinic. Close view of a gloved therapist gently applying a serum or mask to a client's face, elegant candle-lit neutral environment, soft peach and taupe palette, clean medical realism, refined composition, calm atmosphere, no text, no logo."
+  },
+  {
+    "id": "tinting",
+    "output": "assets/images/source/tinting.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic editorial treatment image of eyebrow and eyelash tinting in a premium beauty clinic. Extreme close-up beautiful shot focusing strictly on the client's eye area and the therapist's gloved hands meticulously shaping and tinting the eyebrows. The therapist's face or body must not be in the frame. Warm neutral interior, soft natural lighting, elegant clinical styling, ultra realistic, no text, no logo."
+  },
+  {
+    "id": "permanent-makeup",
+    "output": "assets/images/source/permanent-makeup.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic editorial treatment image of permanent makeup application in a premium beauty clinic. Extreme close-up shot showing only the client's face and the therapist's gloved hands cautiously applying delicate permanent lip or brow styling. Do not show the therapist's face. Serene beige surroundings, flattering bright task light over a relaxing setting, clean professional vibe, premium and calm, no text, no logo."
+  },
+  {
+    "id": "aesthetics",
+    "output": "assets/images/source/aesthetics.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic editorial treatment image of advanced aesthetics in a luxury beauty clinic. Focus on an immaculate setup with premium skincare tools and serene clinical environment, subtly showing a therapist's hands performing a high-quality aesthetic facial procedure, soft blush styling, deep relaxation, no text, no logo."
+  },
+  {
+    "id": "laser-treatments",
+    "output": "assets/images/source/laser-treatments.jpg",
+    "size": "1536x1024",
+    "quality": "high",
+    "prompt": "Photorealistic editorial treatment image of laser skin treatments in a premium single-practitioner beauty clinic. Close view of a gloved therapist using a modern handheld laser device on a client's cheek or jawline, elegant candle-lit neutral environment, soft peach and taupe palette, clean medical realism, refined composition, no text, no logo."
+  }
+]
