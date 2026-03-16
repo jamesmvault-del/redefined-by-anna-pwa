@@ -16,6 +16,10 @@
   -webkit-tap-highlight-color: transparent;
 }
 
+a, button, input, textarea, select, [role="button"], [tabindex] {
+  -webkit-tap-highlight-color: transparent;
+}
+
 :focus:not(:focus-visible) {
   outline: none;
 }
