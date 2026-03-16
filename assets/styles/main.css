@@ -13,15 +13,17 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: transparent !important;
+  -webkit-touch-callout: none !important;
 }
 
 a, button, input, textarea, select, [role="button"], [tabindex] {
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: transparent !important;
+  -webkit-touch-callout: none !important;
 }
 
 :focus:not(:focus-visible) {
-  outline: none;
+  outline: none !important;
 }
 
 html {
