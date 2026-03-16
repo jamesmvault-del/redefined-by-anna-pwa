@@ -1,3 +1,9 @@
+// Prevent browser from restoring previous scroll position on refresh
+if ('scrollRestoration' in history) {
+  history.scrollRestoration = 'manual';
+}
+window.scrollTo(0, 0);
+
 document.addEventListener("DOMContentLoaded", () => {
   const toggleBtn = document.querySelector(".mobile-menu-toggle");
   const overlay = document.querySelector(".mobile-menu-overlay");
