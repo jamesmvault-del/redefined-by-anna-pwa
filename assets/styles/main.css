@@ -17,13 +17,15 @@
   -webkit-touch-callout: none !important;
 }
 
+*, *:focus, *:active, *:hover {
+  outline: none !important;
+  -webkit-tap-highlight-color: rgba(0,0,0,0) !important;
+}
+
 a, button, input, textarea, select, [role="button"], [tabindex] {
   -webkit-tap-highlight-color: transparent !important;
   -webkit-touch-callout: none !important;
-}
-
-:focus:not(:focus-visible) {
-  outline: none !important;
+  outline: 0 !important;
 }
 
 html {
